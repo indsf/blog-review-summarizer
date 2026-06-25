@@ -9,6 +9,11 @@
 
 <br/>
 
+[![Download PDF](https://img.shields.io/badge/Document-정식_보고서_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Blog_Ad_Filtering_Report.pdf)
+<br/><br/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
