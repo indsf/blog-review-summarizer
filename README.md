@@ -2,6 +2,7 @@
 
 # 먹어볼래? (Mukablorae)
 | **보고서** | 📄 [졸업작품 최종 보고서 PDF 보기/다운로드](./Blog_Ad_Filtering_Report.pdf) |
+| **발표 자료** | 📊 [최종 발표 PPT (PDF) 보기](./docs/final_PPT.pdf) |
 ### AI 기반 블로그 광고 판별 & 리뷰 요약 맛집 탐색 서비스
 
 > 광고성 블로그 리뷰를 판별하고, 실제 방문자 리뷰를 요약·해시태그화하여  
@@ -9,7 +10,8 @@
 
 <br/>
 
-[![Download PDF](https://img.shields.io/badge/Document-정식_보고서_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Blog_Ad_Filtering_Report.pdf)
+[![Download PDF](https://img.shields.io/badge/Document-정식_보고서_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./docs/Blog_Ad_Filtering_Report.pdf)
+[![Download PPT](https://img.shields.io/badge/Presentation-발표_PPT_PDF-orange?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](./docs/final_PPT.pdf)
 <br/><br/>
 
 <br/>
