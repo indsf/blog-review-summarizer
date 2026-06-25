@@ -1,7 +1,7 @@
 <div align="center">
 
 # 먹어볼래? (Mukablorae)
-| **보고서** | 📄 [졸업작품 최종 보고서 PDF 보기/다운로드](./Blog_Ad_Filtering_Report.pdf) |
+| **상세 보고서** | 📄 [졸업작품 최종 보고서 PDF 보기](./docs/Blog_Ad_Filtering_Report.pdf) |
 | **발표 자료** | 📊 [최종 발표 PPT (PDF) 보기](./docs/final_PPT.pdf) |
 ### AI 기반 블로그 광고 판별 & 리뷰 요약 맛집 탐색 서비스
 
